@@ -1,5 +1,5 @@
 ---
-title: "New-Beginings"
+title: "New Beginings"
 date: 2025-11-19
 ---
 # Welcome
